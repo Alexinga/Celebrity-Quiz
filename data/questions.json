@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What name is Carlos Estevez better known?",
+      "options": [
+        "Ricky Martin",
+        "Charlie Sheen",
+        "Bruno Mars",
+        "Joaquin Phoenix"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which actress married Michael Douglas in 2000?",
+      "options": [
+        "Ruth Jones",
+        "Pam Ferris",
+        "Sara Sugarman",
+        "Catherine Zeta-Jones"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What does film maker Dan Bell typically focus his films on?",
+      "options": [
+        "Abandoned Buildings and Dead Malls",
+        "Historic Landmarks",
+        "Action Films",
+        "Documentaries "
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What was the cause of Marilyn Monroes suicide?",
+      "options": ["Knife Attack", "House Fire", "Drug Overdose", "Gunshot"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Gwyneth Paltrow has a daughter named...?",
+      "options": ["Apple", "Lily", "French", "Dakota"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which celebrity announced his presidency in 2015?",
+      "options": [
+        "Donald Trump",
+        "Kanye West",
+        "Leonardo DiCaprio",
+        "Miley Cyrus"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Aubrey Graham is better known as",
+      "options": ["Travis Scott", "Lil Wayne", "2 Chainz", "Drake"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Neil Hamburger is played by which comedian?",
+      "options": [
+        "Nathan Fielder",
+        "Tim Heidecker",
+        "Gregg Turkington",
+        "Todd Glass"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "By which name is Ramon Estevez better known as?",
+      "options": [
+        "Charlie Sheen",
+        "Ramon Sheen",
+        "Emilio Estevez",
+        "Martin Sheen"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What was James Coburn's last film role before his death?",
+      "options": ["Monsters Inc", "Texas Rangers", "Snow Dogs", "American Gun"],
+      "correctOption": 3,
+      "points": 30
+    }
+  ]
+}
